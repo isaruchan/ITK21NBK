@@ -917,7 +917,7 @@ Register accounts on Online Judges:
 
   |       OJ       |                                     Name                                     |  Categories  |
   |:--------------:|:----------------------------------------------------------------------------:|:------------:|
-  |    **VNOJ**    |           [voi17fibseq](https://oj.vnoi.info/problem/voi17fibseq)            | _DP, MatMul_ |
+  |    **VNOJ**    |          [voi17_fibseq](https://oj.vnoi.info/problem/voi17_fibseq)           | _DP, MatMul_ |
   |    **VNOJ**    |                [c11cal](https://oj.vnoi.info/problem/c11cal)                 | _DP, MatMul_ |
   |    **VNOJ**    |     [icpc22_national_h](https://oj.vnoi.info/problem/icpc22_national_h)      | _DP, MatMul_ |
   |    **VNOJ**    |              [vomarble](https://oj.vnoi.info/problem/vomarble)               | _DP, MatMul_ |
@@ -937,15 +937,14 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |    OJ     |                            Name                             |    Categories     |
-  |:---------:|:-----------------------------------------------------------:|:-----------------:|
-  | **VNOJ**  |        [mixup2](https://oj.vnoi.info/problem/mixup2)        |   _Bitmask DP_    |
-  | **VNOJ**  |          [lem3](https://oj.vnoi.info/problem/lem3)          |   _Bitmask DP_    |
-  | **VNOJ**  |       [cowgirl](https://oj.vnoi.info/problem/cowgirl)       |   _Bitmask DP_    |
-  | **VNOJ**  |        [qbgame](https://oj.vnoi.info/problem/qbgame)        |   _Bitmask DP_    |
-  | **VNOJ**  | [predhbb21_cpu](https://oj.vnoi.info/problem/predhbb21_cpu) |   _Bitmask DP_    |
-  | **VNOJ**  |        [seq198](https://oj.vnoi.info/problem/seq198)        |   _Bitmask DP_    |
-  | **NBKOJ** |        [bfgifts](https://nbk.homes/problem/bfgifts)         | _Bitmask DP, BFS_ |
+  |    OJ    |                            Name                             |  Categories  |
+  |:--------:|:-----------------------------------------------------------:|:------------:|
+  | **VNOJ** |        [mixup2](https://oj.vnoi.info/problem/mixup2)        | _Bitmask DP_ |
+  | **VNOJ** |          [lem3](https://oj.vnoi.info/problem/lem3)          | _Bitmask DP_ |
+  | **VNOJ** |       [cowgirl](https://oj.vnoi.info/problem/cowgirl)       | _Bitmask DP_ |
+  | **VNOJ** |        [qbgame](https://oj.vnoi.info/problem/qbgame)        | _Bitmask DP_ |
+  | **VNOJ** | [predhbb21_cpu](https://oj.vnoi.info/problem/predhbb21_cpu) | _Bitmask DP_ |
+  | **VNOJ** |        [seq198](https://oj.vnoi.info/problem/seq198)        | _Bitmask DP_ |
 
 ### Lesson 43 (17.07.23)
 
