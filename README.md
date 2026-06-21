@@ -955,19 +955,18 @@ Register accounts on Online Judges:
 - Resources
   - [SOS Dynamic Programming [Tutorial] - Codeforces Blog](https://codeforces.com/blog/entry/45223)
   - [Sum over Subsets DP - USACO Guide](https://usaco.guide/adv/dp-sos?lang=cpp)
-  - [Properties of Combination](https://www.toppr.com/ask/content/concept/properties-of-combination-formula-i-207927/)
+  - [Quy hoạch động SOS - Phần 1 | VNOI Wiki](https://wiki.vnoi.info/vi/algo/dp/dp-sos-1)
+  - [Quy hoạch động SOS - Phần 2 | VNOI Wiki](https://wiki.vnoi.info/vi/algo/dp/dp-sos-2)
   - Solution for VOI21_OR: [VNOI Livestream](https://www.facebook.com/watch/live/?ref=watch_permalink&v=308545883881762) and [Slide](https://docs.google.com/presentation/d/1e-7OVilzj9tnCBYvUELETWgmGrGoCSWbEwn6bkicEZA/edit)
 
 - Practice Problems:
 
   |       OJ       |                                Name                                |          Categories           |
   |:--------------:|:------------------------------------------------------------------:|:-----------------------------:|
-  |   **NBKOJ**    |             [bfboat](https://nbk.homes/problem/bfboat)             |         _Bitmask DP_          |
   |    **VNOJ**    |          [maugiao](https://oj.vnoi.info/problem/maugiao)           |         _Bitmask DP_          |
   | **Codeforces** |    [A Simple Task](https://codeforces.com/contest/11/problem/D)    |         _Bitmask DP_          |
   | **Codeforces** | [Compatible Numbers](https://codeforces.com/contest/165/problem/E) |           _SOS DP_            |
   | **Codeforces** | [Square Subsets](https://codeforces.com/problemset/problem/895/C)  | _SOS DP, Math, Combinatorics_ |
-  |   **NBKOJ**    |           [cwdcnkce](https://nbk.homes/problem/cwdcnkce)           |    _SOS DP, Combinatorics_    |
   |    **VNOJ**    |         [voi21_or](https://oj.vnoi.info/problem/voi21_or)          |    _SOS DP, Combinatorics_    |
 
 ### Lesson 44 (03.08.23)
@@ -983,10 +982,6 @@ Register accounts on Online Judges:
   |       OJ       |                                    Name                                    |         Categories          |
   |:--------------:|:--------------------------------------------------------------------------:|:---------------------------:|
   |    **VNOJ**    |              [binary2](https://oj.vnoi.info/problem/binary2)               |     _DP, Combinatorics_     |
-  |   **NBKOJ**    |                [cnttree](https://nbk.homes/problem/cnttree)                |     _DP, Combinatorics_     |
-  |   **NBKOJ**    |                [camping](https://nbk.homes/problem/camping)                |     _DP, Combinatorics_     |
-  |   **NBKOJ**    |                 [genstr](https://nbk.homes/problem/genstr)                 |     _DP, Combinatorics_     |
-  |   **NBKOJ**    |             [reordering](https://nbk.homes/problem/reordering)             |     _DP, Combinatorics_     |
   | **Codeforces** |         [Arena](https://codeforces.com/problemset/problem/1606/E)          |     _DP, Combinatorics_     |
   | **Codeforces** | [Number of Simple Paths](https://codeforces.com/problemset/problem/1454/E) | _DP, Combinatorics, Graphs_ |
 
