@@ -994,6 +994,7 @@ Register accounts on Online Judges:
   - [Digit DP - Codeforces Blog](https://codeforces.com/blog/entry/53960)
   - [Digit DP Tutorial - Codeforces - Blog](https://codeforces.com/blog/entry/77096)
   - [Digit DP | Introduction - GeeksforGeeks](https://www.geeksforgeeks.org/digit-dp-introduction/)
+  - [Quy hoạch động chữ số | VNOI Wiki](https://wiki.vnoi.info/vi/algo/dp/digit-dp)
 
 - Practice Problems:
 
@@ -1002,7 +1003,6 @@ Register accounts on Online Judges:
   |    **VNOJ**    |          [demso](https://oj.vnoi.info/problem/demso)          | _Digit DP_ |
   |    **VNOJ**    |   [atcoder_dp_s](https://oj.vnoi.info/problem/atcoder_dp_s)   | _Digit DP_ |
   |    **VNOJ**    |        [lucky13](https://oj.vnoi.info/problem/lucky13)        | _Digit DP_ |
-  |   **NBKOJ**    |        [cwdpearl](https://nbk.homes/problem/cwdpearl)         | _Digit DP_ |
   | **Codeforces** | [Magic Numbers](https://codeforces.com/contest/628/problem/D) | _Digit DP_ |
 
 ### Lesson 46 (10.08.23)
