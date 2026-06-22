@@ -1022,7 +1022,6 @@ Register accounts on Online Judges:
   |:--------------:|:---------------------------------------------------------------------------:|:----------------:|
   |   **LQDOJ**    |                   [pun](https://lqdoj.edu.vn/problem/pun)                   | _String Hashing_ |
   |   **LQDOJ**    |                [twostr](https://lqdoj.edu.vn/problem/twostr)                | _String Hashing_ |
-  |   **NBKOJ**    |                 [period](https://nbk.homes/problem/period)                  | _String Hashing_ |
   |    **VNOJ**    |                [paliny](https://oj.vnoi.info/problem/paliny)                | _String Hashing_ |
   | **Codeforces** |     [Palindrome Degree](https://codeforces.com/problemset/problem/7/D)      | _String Hashing_ |
   | **Codeforces** | [Palindromic characteristics](https://codeforces.com/contest/835/problem/D) | _String Hashing_ |
