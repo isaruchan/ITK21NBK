@@ -1055,7 +1055,7 @@ Register accounts on Online Judges:
   - Trie.
 
 - Resources:
-  - [KMP](https://wiki.vnoi.info/translate/wcipeg/kmp) and [Z-function](https://wiki.vnoi.info/algo/string/z-algo.md) and [Trie](https://wiki.vnoi.info/algo/data-structures/trie.md) - VNOI Wiki
+  - [KMP](https://wiki.vnoi.info/translate/wcipeg/kmp) and [Z-function](https://wiki.vnoi.info/algo/string/z-algo.md) and [Trie](https://wiki.vnoi.info/vi/algo/string/trie) - VNOI Wiki
   - [KMP](https://cp-algorithms.com/string/prefix-function.html) and [Z-Function](https://cp-algorithms.com/string/z-function.html) - CP-Algorithms
   - Manacher's Algorithm: [VNOI Wiki](https://wiki.vnoi.info/algo/string/manacher.md) and [Cp-Algorithm](https://cp-algorithms.com/string/manacher.html)
   - [String Searching](https://usaco.guide/adv/string-search?lang=cpp) - USACO Guide
@@ -1094,7 +1094,6 @@ Register accounts on Online Judges:
   | **Codeforces** | [Kuro and GCD and XOR and SUM](https://codeforces.com/problemset/problem/979/D) | _DP, String Searching_ |
   | **Codeforces** |           [Short Code](https://codeforces.com/contest/965/problem/E)            | _DP, String Searching_ |
   | **Codeforces** |     [Beautiful Subarrays](https://codeforces.com/problemset/problem/665/E)      | _DP, String Searching_ |
-  |   **NBKOJ**    |                  [xorgame](https://nbk.homes/problem/xorgame)                   | _DP, String Searching_ |
 
 ### Lesson 51 (31.08.23)
 
