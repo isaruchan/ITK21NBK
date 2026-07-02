@@ -1,8 +1,8 @@
 # BF Training ITK21 NBK
 
-Training syllabus for ITK21 NBK by **\_\_BruteForce\_\_**. Prepare for Quang Nam Olympiad in Informatics (2023) and Vietnamese National Olympiad in Informatics (VOI 2024).
+Training syllabus and roadmap for the Competitive Programming team (ITK21) at Nguyen Binh Khiem High School for the Gifted. Originally compiled by **\_\_BruteForce\_\_** for the Quang Nam Olympiad in Informatics (2023) and the Vietnamese National Olympiad in Informatics (VOI 2024).
 
-Update for ITK24 by **Vuong Huu Khang Hy**.
+Updated for the ITK24 cohort by **Vuong Huu Khang Hy**.
 
 ## Requirements
 
