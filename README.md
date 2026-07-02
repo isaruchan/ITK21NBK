@@ -1225,33 +1225,30 @@ Register accounts on Online Judges:
   | **Codeforces** |   [Lomsat gelral](https://codeforces.com/contest/600/problem/E)   |               _Small-To-Large_                |
   | **Codeforces** | [Dynamic Diameter](https://codeforces.com/contest/1192/problem/B) |         _Euler Tour, Data Structures_         |
 
----
+### Lesson 57 (02.07.26)
 
-## Practice Contests
+- Concepts:
+  - Convex Hull Dp.
+  - Convex Hull Trick.
+  - Li Chao Tree.
+
+- Resources
+  - [Convex Hull Trick - VNOI Wiki](https://wiki.vnoi.info/algo/dp/cht)
+  - [Li-chao Tree - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/lichao-tree)
+  - [Convex hull trick and Li Chao tree - CP-Algorithms](https://cp-algorithms.com/geometry/convex_hull_trick.html)
+
+- Practice Problems:
+
+  |    OJ     |                             Name                              |              Categories               |
+  |:---------:|:-------------------------------------------------------------:|:-------------------------------------:|
+  | **K23OJ** | [Convex Hull Dp 1](https://k23oj.io.vn/contest/convexhulldp1) | _Dp, Convex Hull Trick, Li Chao Tree_ |
+---
 
 ### BF Contests for ITK21
 
-- [[BF Training] ITK21 Practice Contest #01](https://nbk.homes/contest/itk21train01)
-
-- [[BF Training] ITK21 Practice Contest #02](https://codeforces.com/group/G0iFI97YZN/contest/431808)
-
-- [[BF Training] ITK21 Practice Contest #03](https://nbk.homes/contest/itk21train03)
-
-- [[BF Training] ITK21 Practice Contest #04](https://nbk.homes/contest/itk21train04)
-
-- [[BF Training] ITK21 Practice Contest #05](https://nbk.homes/contest/itk21train05)
-
 - [BF Educational Marathon Contest](https://codeforces.com/group/G0iFI97YZN/contest/474605)
 
-### Mirror for QNOI through years
-
-- [[Mirror] QNOI](https://nbk.homes/contests/?contest=%5Bmirror%5D+qnoi)
-
 ### Pre-QNOI 2022
-
-- [Pre-QNOI 2022 #01](https://nbk.homes/contest/preqnoi01)
-
-- [Pre-QNOI 2022 #02](https://nbk.homes/contest/preqnoi02)
 
 - [Practice Round 1: Mashup](https://codeforces.com/group/G0iFI97YZN/contest/399716)
 
