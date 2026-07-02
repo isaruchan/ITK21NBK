@@ -14,6 +14,7 @@ Register accounts on Online Judges:
 - [Codeforces](https://codeforces.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [CSES - Code Submission Evaluation System](https://cses.fi/)
+- [K23OJ: ITK23 Online Judge](https://k23oj.io.vn/)
 
 ## References
 
