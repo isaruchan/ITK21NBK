@@ -1240,9 +1240,9 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |    OJ     |                             Name                              |              Categories               |
-  |:---------:|:-------------------------------------------------------------:|:-------------------------------------:|
-  | **K23OJ** | [Convex Hull Dp 1](https://k23oj.io.vn/contest/convexhulldp1) | _Dp, Convex Hull Trick, Li Chao Tree_ |
+  |    OJ     |                                Name                                 |              Categories               |
+  |:---------:|:-------------------------------------------------------------------:|:-------------------------------------:|
+  | **K23OJ** | [Convex Hull Dp Contest #1](https://k23oj.io.vn/contest/convexhulldp1) | _Dp, Convex Hull Trick, Li Chao Tree_ |
 
 ### Lesson 58 (04.07.26)
 
@@ -1255,9 +1255,9 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |    OJ     |                                Name                                 | Categories |
-  |:---------:|:-------------------------------------------------------------------:|:----------:|
-  | **K23OJ** | [Broken Profile Dp 1](https://k23oj.io.vn/contest/brokenprofiledp1) |    _Dp_    |
+  |    OJ     |                                   Name                                    | Categories |
+  |:---------:|:-------------------------------------------------------------------------:|:----------:|
+  | **K23OJ** | [Broken Profile Dp Contest #1](https://k23oj.io.vn/contest/brokenprofiledp1) |    _Dp_    |
 ---
 
 ### BF Contests for ITK21
