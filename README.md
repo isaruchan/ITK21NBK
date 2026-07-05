@@ -1243,9 +1243,24 @@ Register accounts on Online Judges:
   |    OJ     |                             Name                              |              Categories               |
   |:---------:|:-------------------------------------------------------------:|:-------------------------------------:|
   | **K23OJ** | [Convex Hull Dp 1](https://k23oj.io.vn/contest/convexhulldp1) | _Dp, Convex Hull Trick, Li Chao Tree_ |
+
+### Lesson 58 (04.07.26)
+
+- Concepts:
+  - Broken Profile Dp.
+
+- Resources:
+  - [DP on Broken Profile - USACO Guide](https://usaco.guide/adv/dp-broken-profile?lang=cpp)
+  - [Dynamic Programming on Broken Profile. Problem "Parquet" - CP-Algorithms](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
+
+- Practice Problems:
+
+  |    OJ     |                                Name                                 | Categories |
+  |:---------:|:-------------------------------------------------------------------:|:----------:|
+  | **K23OJ** | [Broken Profile Dp 1](https://k23oj.io.vn/contest/brokenprofiledp1) |    _Dp_    |
 ---
 
-### BF Contests for ITK21
+## BF Contests for ITK21
 
 - [BF Educational Marathon Contest](https://codeforces.com/group/G0iFI97YZN/contest/474605)
 
