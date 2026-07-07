@@ -1262,7 +1262,7 @@ Register accounts on Online Judges:
 ### Lesson 59 (07.07.26)
 
 - Concepts:
-  - D&C Dp (Knuth-Yao Optimization)
+  - Divide and Conquer Dp (Knuth-Yao Optimization)
 
 - Resources:
   - [Divide and Conquer DP - CP-Algorithms](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
@@ -1270,9 +1270,9 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |    OJ     |                                          Name                                           | Categories |
-  |:---------:|:---------------------------------------------------------------------------------------:|:----------:|
-  | **K23OJ** | [D&C Dp (Knuth-Yao Optimization) #1](https://k23oj.io.vn/contest/knuthyaooptimization1) |    _Dp_    |
+  |    OJ     |                                          Name                                           |        Categories        |
+  |:---------:|:---------------------------------------------------------------------------------------:|:------------------------:|
+  | **K23OJ** | [Divide and Conquer Dp (Knuth-Yao Optimization) #1](https://k23oj.io.vn/contest/knuthyaooptimization1) | _Dp, Divide and Conquer_ |
 ---
 
 ### BF Contests for ITK21
