@@ -1240,8 +1240,8 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |    OJ     |                                Name                                 |              Categories               |
-  |:---------:|:-------------------------------------------------------------------:|:-------------------------------------:|
+  |    OJ     |                                  Name                                  |              Categories               |
+  |:---------:|:----------------------------------------------------------------------:|:-------------------------------------:|
   | **K23OJ** | [Convex Hull Dp Contest #1](https://k23oj.io.vn/contest/convexhulldp1) | _Dp, Convex Hull Trick, Li Chao Tree_ |
 
 ### Lesson 58 (04.07.26)
@@ -1255,9 +1255,24 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |    OJ     |                                   Name                                    | Categories |
-  |:---------:|:-------------------------------------------------------------------------:|:----------:|
+  |    OJ     |                                     Name                                     | Categories |
+  |:---------:|:----------------------------------------------------------------------------:|:----------:|
   | **K23OJ** | [Broken Profile Dp Contest #1](https://k23oj.io.vn/contest/brokenprofiledp1) |    _Dp_    |
+
+### Lesson 59 (07.07.26)
+
+- Concepts:
+  - D&C Dp (Knuth-Yao Optimization)
+
+- Resources:
+  - [Divide and Conquer DP - CP-Algorithms](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
+  - [Divide and Conquer DP - USACO Guide](https://usaco.guide/plat/DC-DP?lang=cpp)
+
+- Practice Problems:
+
+  |    OJ     |                                          Name                                           | Categories |
+  |:---------:|:---------------------------------------------------------------------------------------:|:----------:|
+  | **K23OJ** | [D&C Dp (Knuth-Yao Optimization) #1](https://k23oj.io.vn/contest/knuthyaooptimization1) |    _Dp_    |
 ---
 
 ### BF Contests for ITK21
@@ -1273,3 +1288,7 @@ Register accounts on Online Judges:
 - [Practice Round 3: DP](https://codeforces.com/group/G0iFI97YZN/contest/400071)
 
 - [Practice Round 4: Graph](https://codeforces.com/group/G0iFI97YZN/contest/400265)
+
+### BF Contest for ITK24
+
+- [D&C Dp (Knuth-Yao Optimization) & Alien Trick (WQS Binary Search)](https://k23oj.io.vn/contest/knuthyaooptimization_alientrick)
