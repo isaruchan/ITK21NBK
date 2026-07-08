@@ -1270,9 +1270,24 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |    OJ     |                                          Name                                           |        Categories        |
-  |:---------:|:---------------------------------------------------------------------------------------:|:------------------------:|
+  |    OJ     |                                                  Name                                                  |        Categories        |
+  |:---------:|:------------------------------------------------------------------------------------------------------:|:------------------------:|
   | **K23OJ** | [Divide and Conquer Dp (Knuth-Yao Optimization) #1](https://k23oj.io.vn/contest/knuthyaooptimization1) | _Dp, Divide and Conquer_ |
+
+### Lesson 60 (08.07.26)
+
+- Concepts:
+  - Alien Trick (WQS Binary Search)
+
+- Resources:
+  - [Lagrangian Relaxation - USACO Guide](https://usaco.guide/adv/lagrange?lang=cpp)
+  - [Alien Optimization - Swiss Olympiad in Informatics](https://soi.ch/wiki/alien-optimization/)
+
+- Practice Problems:
+
+  |    OJ     |                                     Name                                      | Categories |
+  |:---------:|:-----------------------------------------------------------------------------:|:----------:|
+  | **K23OJ** | [Alien Trick (WQS Binary Search) #1](https://k23oj.io.vn/contest/alientrick1) |    _Dp_    |
 ---
 
 ### BF Contests for ITK21
