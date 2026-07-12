@@ -1307,3 +1307,5 @@ Register accounts on Online Judges:
 ### BF Contest for ITK24
 
 - [D&C Dp (Knuth-Yao Optimization) & Alien Trick (WQS Binary Search)](https://k23oj.io.vn/contest/knuthyaooptimization_alientrick)
+
+- [BF Advanced Training Round 1](https://k23oj.io.vn/contest/bf_advanced_training_1)
